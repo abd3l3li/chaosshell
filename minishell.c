@@ -50,7 +50,7 @@ void	input(t_ms *command, char **env)
 	fill_env(&command->env_list, env);
 	fill_env(&command->export, env);
 	export_sort(&command->export);
-	command->prompt = BOLD CMAGENTA "Hamas" CCYAN "-shell" RESET "> ";
+	command->prompt = BOLD CMAGENTA "chaos" CCYAN "-shell" RESET "> ";
 	while (1)
 	{
 		ms_signal();
