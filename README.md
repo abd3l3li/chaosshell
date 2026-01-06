@@ -1,11 +1,19 @@
 # 🐚 chaosshell
 
-Hello fellas! 👋  
-Welcome to my **chaosshell** is a minishell project — a simplified implementation of a Unix shell written in C.
+chaosshell is a minimal Unix shell written in C, developed as a learning project to explore system programming and shell internals.
+
+It implements core shell behavior while keeping the code simple and readable.
 
 > ⚠️ **Note:** This is **not the final optimized version**.
 
 ## 📌 About
-This project is part of my journey into learning systems programming and building custom shells. It handles basic shell functionality and aims to replicate some behaviors of real-world shells like `bash`.
+chaosshell supports basic command execution and reproduces essential features found in common Unix shells like `bash`.
 
-  Thanks for checking it out! 🙂
+This project focuses on:
+- Understanding processes and system calls
+- Working with file descriptors and pipes
+- Improving code structure and memory management
+- Writing clean, maintainable C code
+
+Thanks for checking it out 🙂
+
