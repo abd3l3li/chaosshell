@@ -4,7 +4,7 @@ chaosshell is a minimal Unix shell written in C, developed as a learning project
 
 It implements core shell behavior while keeping the code simple and readable.
 
-![shell](https://github.com/user-attachments/assets/c6676378-41cc-4414-a60d-3a70f8cb2942)
+![shell](https://github.com/user-attachments/assets/a2b96e1a-af81-4780-a338-21da90f41dc3)
 
 > ⚠️ **Note:** This is **not the final optimized version**.
 
