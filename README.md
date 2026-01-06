@@ -1,4 +1,4 @@
-# 🐚 minishell
+# 🐚 crazyShell
 
 Hello fellas! 👋  
 Welcome to my **minishell** project — a simplified implementation of a Unix shell written in C.
